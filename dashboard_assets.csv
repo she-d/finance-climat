@@ -1,0 +1,6 @@
+name;latitude;longitude;exposure_value;sector;country
+Asset A;48.8566;2.3522;3000000;Utilities;France
+Asset B;52.5200;13.4050;5000000;Energy;Germany
+Asset C;41.9028;12.4964;2500000;Industry;Italy
+Asset D;40.4168;-3.7038;2000000;Transport;Spain
+Asset E;52.3676;4.9041;2500000;Real Estate;Netherlands
