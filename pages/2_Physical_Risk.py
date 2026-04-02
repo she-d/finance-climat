@@ -20,6 +20,7 @@ assets = pd.read_csv("data/physical_risk/dashboard_assets.csv", sep=";")
 country = pd.read_csv("data/physical_risk/dashboard_country_indicator.csv", sep=";")
 sector = pd.read_csv("data/physical_risk/dashboard_sector_indicator.csv", sep=";")
 summary_raw = pd.read_csv("data/physical_risk/dashboard_summary.csv", sep=";")
+interpretation = pd.read_csv("data/physical_risk/dashboard_interpretation.csv", sep=";")
 
 summary = summary_raw.set_index("metric")["value"]
 
