@@ -1,1 +1,11 @@
-
+item;value
+indicator_name;Physical climate risk indicator
+definition;Measures exposure of assets to flood hazard using hazard intensity and asset value.
+formula;"physical_risk = hazard * value ; indicator = total_risk / total_value"
+meaning_of_high_value;A high value means the asset, country or sector is strongly exposed to physical climate risk.
+meaning_of_low_value;A low value means the asset, country or sector is less exposed to physical climate risk.
+how_to_invest;For a non-expert investor: prefer countries, sectors and assets with the lowest indicator values.
+graph_country;Country graph: compares average physical climate risk across countries. Lower bars are better.
+graph_sector;Sector graph: compares average physical climate risk across sectors. Lower bars are better.
+graph_assets;Assets table/map: shows which individual assets are the safest or riskiest. Prioritize low-risk assets.
+decision_rule;"Investment rule: lower indicator = better candidate for investment; higher indicator = more caution needed."
