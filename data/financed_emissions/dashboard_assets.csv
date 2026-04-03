@@ -1,0 +1,36 @@
+name;country;sector;exposure_eur;financed_emissions_tco2e
+TotalEnergies;France;Energy;50000000000.0;172954771.56194994
+Renault;France;Automotive;20000000000.0;172082989.67434472
+Orange;France;Telecom;30000000000.0;6776920.642363146
+L'Oréal;France;Consumer Discretionary;6000000000.0;243497.93103448278
+LVMH;France;Luxury;10000000000.0;246803.99874055415
+Airbus;Netherlands;Industrials;4232488633.0;2884262.7385212425
+BNP Paribas;France;Financials;4616382077.0;462649.5762186013
+Sanofi;France;Healthcare;5687305871.0;3026697.9945307807
+Stellantis;Netherlands;Automotive;3167775007.0;5821349.9184589535
+Engie;France;Utilities;21071942360.0;16805037.89048704
+Carrefour;France;Consumer Staples;5429996513.0;3216533.0308262734
+Danone;France;Consumer Staples;17624045703.0;15754882.252397785
+Vinci;France;Industrials;2616608594.0;20204336.142385043
+Bouygues;France;Industrials;1114954620.0;2806101.0100775035
+Capgemini;France;Technology;14162965283.0;6172235.156906749
+Dassault Systemes;France;Technology;20862410875.0;3248625.3007418164
+AXA;France;Financials;11079281249.0;2420563.3763782484
+Société Générale;France;Financials;12658695195.0;5391707.741924
+Crédit Agricole;France;Financials;7385014887.0;777691.1190089216
+Safran;France;Industrials;3846695321.0;936730.5081980209
+Thales;France;Industrials;5011612537.0;1746857.1143619649
+Veolia;France;Utilities;659674649.0;712077.410855159
+Schneider Electric;France;Industrials;4288719567.0;950700.0133170256
+Michelin;France;Industrials;1194614579.0;172698.32424969034
+Legrand;France;Industrials;3915290401.0;1407558.0060904343
+Edenred;France;Industrials;7034014107.0;5419570.469773888
+Kering;France;Luxury;7221864855.0;2606151.160470637
+Pernod Ricard;France;Consumer Staples;10589307023.0;5590243.987054688
+Publicis;France;Communication Services;6759199568.0;579453.556311209
+Alstom;France;Industrials;13786188087.0;1701916.3727128145
+Euronext;Netherlands;Financials;23265220992.0;4823947.732481701
+Worldline;France;Technology;2619285847.0;649528.891528245
+Teleperformance;France;Technology;1451917186.0;762735.6138585425
+Atos;France;Technology;6553152490.0;1183523.9449668573
+Eiffage;France;Industrials;5714858122.0;4016783.3344866955
