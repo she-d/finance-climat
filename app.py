@@ -125,7 +125,7 @@ See the **Indicator Guide** page for details.
 # =========================
 st.markdown('<div class="section-title">Available indicators</div>', unsafe_allow_html=True)
 
-c1, c2, c3 = st.columns(3)
+c1, c2, c3, c4 = st.columns(4)
 
 with c1:
     st.markdown("""
@@ -160,6 +160,16 @@ with c3:
     </div>
     """, unsafe_allow_html=True)
 
+with c4:
+    st.markdown("""
+    <div class="card">
+        <div class="card-title">🌡️ ITR</div>
+        <div class="card-text">
+            Implied Temperature Rise.  
+            Measures the estimated global temperature increase implied by the portfolio's trajectory.
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
 # =========================
 # HOW TO USE
 # =========================
