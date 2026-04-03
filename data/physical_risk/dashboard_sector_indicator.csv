@@ -1,0 +1,16 @@
+sector;total_value;total_risk;indicator;risk_level;investment_view;rank_best_to_worst
+Wave and Tidal;552200000;0.0;0.0;Low risk;Good candidate for investment;1
+Geothermal;12687750000;149456309.21851844;0.011779575513272128;Low risk;Good candidate for investment;2
+Wind;263053729500;3519130024.250281;0.013377989473630636;Low risk;Good candidate for investment;3
+Storage;1712300000;45076946.86576724;0.026325379235979232;Low risk;Good candidate for investment;4
+Petcoke;2424577500;68908290.91370106;0.028420741722506727;Low risk;Good candidate for investment;5
+Cogeneration;4048000000;137716038.31648827;0.03402076045367793;Low risk;Good candidate for investment;6
+Oil;261878709618;20842468225.250328;0.07958825005535211;Low risk;Good candidate for investment;7
+Solar;188312323490;17814614174.43642;0.09460142514455479;Low risk;Good candidate for investment;8
+Nuclear;407911760000;42845145286.96239;0.10503532746141564;Low risk;Good candidate for investment;9
+Coal;1965540999600;268797657090.69315;0.1367550497015301;Low risk;Good candidate for investment;10
+Waste;14748714000;2306473686.2844973;0.1563847320033799;Low risk;Good candidate for investment;11
+Biomass;34281301600;7010226135.609344;0.2044912476604839;Moderate risk;Possible investment with caution;12
+Gas;1493050602149;319113193999.01825;0.2137323366935504;Moderate risk;Possible investment with caution;13
+Other;3612860000;2470887790.2448177;0.6839146244927337;High risk;Risky investment;14
+Hydro;1053159619800;1798464465295.9294;1.7076846011599518;Very high risk;Avoid if risk reduction is the goal;15
